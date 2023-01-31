@@ -17,7 +17,7 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Коллекции. Часть 1.");
+        System.out.println("Коллекции. Часть 3. Ассоциативные массивы и карты.");
         System.out.println("");
 
         Car audi = new Car(" AUDI ", " A8 50 L TDI quattro ",
