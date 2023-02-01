@@ -47,7 +47,6 @@ public class Main {
         volvo.addMechanic(mechanic2);
         mersedes.addMechanic(mechanic3);
         higer.addMechanic(mechanic4);
-        audi.addMechanic(mechanic1);
 
         List<Transport<?>> racers = new ArrayList<>();
         racers.add(audi);
